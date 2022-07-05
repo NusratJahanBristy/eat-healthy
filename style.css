@@ -37,9 +37,7 @@ h2 {
 
 .image-item img {
     width: 100%;
-
 }
-
 
 .button-btn {
     background-image: linear-gradient(45deg, orange, red);
@@ -48,8 +46,6 @@ h2 {
     border-radius: 50px;
     border: none;
     font-weight: 700;
-
-
 }
 
 .about-section {
@@ -67,22 +63,18 @@ h2 {
     text-align: center;
     margin: 10px 40px;
     padding: 10px 300px;
-
 }
 
 .card-recipe {
     display: flex;
     justify-content: center;
     width: 100%;
-
-
 }
 
 .card-img img {
     width: 100%;
     height: 300px;
     border-radius: 40px;
-
 }
 
 .first-cad-recipe {
@@ -102,7 +94,6 @@ h2 {
     border-radius: 50px;
     margin: 50px 70px 80px 8px;
     box-shadow: 10px 10px 40px grey;
-
 }
 
 .card-content h3 {
@@ -126,7 +117,6 @@ h2 {
     border-radius: 20px;
     margin: 30px 80px;
     text-align: center;
-
     padding: 20px;
 }
 
@@ -134,14 +124,28 @@ h2 {
     font-size: 35px;
     color: black;
     font-weight: 900;
-
-
 }
 
 .social-content p {
     font-size: 16px;
+}
 
+footer div {
+    height: 230px;
+    background-color: black;
+    text-align: center;
+}
 
+footer h3 {
+    color: grey;
+    font-size: 25px;
+    padding: 30px 0px 0px 0px;
 
+}
+
+footer p {
+    color: white;
+    font-size: 15px;
+    padding: 0px;
 
 }
