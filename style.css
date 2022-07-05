@@ -3,3 +3,43 @@ body {
     font-family: 'Poppins', sans-serif;
 
 }
+
+h1 {
+    font-size: 50px;
+    color: grey;
+    font-weight: 900;
+}
+
+.color {
+    color: orange;
+}
+
+.first-section {
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+}
+
+.content-item {
+    width: 40%;
+}
+
+.content-item p {
+    color: gray
+}
+
+
+.image-item img {
+    width: 100%;
+}
+
+.button-btn {
+    background-image: linear-gradient(45deg, orange, red);
+    color: white;
+    padding: 18px 45px;
+    border-radius: 50px;
+    border: none;
+    font-weight: 700;
+
+
+}
