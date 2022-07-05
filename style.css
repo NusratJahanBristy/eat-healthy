@@ -57,3 +57,63 @@ h2 {
     background-position: center;
     margin: 0;
 }
+
+.recipie-section h2 {
+    text-align: center;
+}
+
+.recipie-section p {
+    text-align: center;
+    margin: 10px 40px;
+    padding: 10px 300px;
+
+}
+
+.card-recipe {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+
+}
+
+.card-img img {
+    width: 100%;
+    height: 300px;
+    border-radius: 40px;
+
+}
+
+.first-cad-recipe {
+
+    background-color: white;
+    padding: 27px 25px 35px 25px;
+    width: 40%;
+    border-radius: 50px;
+    margin: 50px 8px 80px 70px;
+    box-shadow: 10px 10px 40px grey;
+}
+
+.second-cad-recipe {
+    width: 40%;
+    background-color: white;
+    padding: 27px 25px 35px 25px;
+    border-radius: 50px;
+    margin: 50px 70px 80px 8px;
+    box-shadow: 10px 10px 40px grey;
+
+}
+
+.card-content h3 {
+    text-align: left;
+    color: black;
+    font-weight: 900;
+}
+
+.card-content p {
+    text-align: left;
+    color: black;
+    margin: 0;
+    padding: 0;
+
+}
